@@ -1,1 +1,2 @@
-# Underground_Living
+# Underground Living
+A Minecraft datapack that I created using the Sky-Detection-Datapack from CloudWolfYT (https://github.com/CloudWolfYT/Sky-Detection-Datapack/tree/main). This datapack is supposed to be used when playing an underground only challenge. This datapack will poison players if they are exposed to sunlight which provides a twist on the general challenge as it allows people to go outside.
