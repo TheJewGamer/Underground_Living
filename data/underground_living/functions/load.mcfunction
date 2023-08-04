@@ -8,4 +8,4 @@ scoreboard objectives add eventStart dummy
 scoreboard players set @a eventStart 0
 
 #set title time outs
-title @p times 10 60 10
+title @a times 10 60 10
